@@ -1,0 +1,6 @@
+beautifulsoup4==4.9.3
+pycurl==7.44.1
+xmltodict==0.12.0
+bs4==0.0.1
+certifi==2121.5.30
+
