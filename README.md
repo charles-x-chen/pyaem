@@ -5,9 +5,9 @@ PyAEM
 -----
 
 PyAEM is a Python client for [Adobe Experience Manager](http://dev.day.com/docs/en/cq/current.html) (AEM) API.
-The work was initially doner by [Cliffano Subagio] (https://blog.cliffano.com/2014/05/21/wrapping-aem-curl-commands-with-python/) but the work stopped in 2014 and since then there hasn't been any update, but AEM has moved on.
+The work was initially done by [Cliffano Subagio] (https://blog.cliffano.com/2014/05/21/wrapping-aem-curl-commands-with-python/) but the work stopped in 2014 and since then there hasn't been any update, but AEM has moved on.
 
-I was in a project where we need to write some scrits to automate some work and found this from the Google search.
+I was in a project where I would like to convert some of my shell scripts to Python and found this from the Google search.
 This repo was a spin off from the original work and fixed to make it work for the Adobe's latest AEM Cloud.
 
 Only Package Handling part of this tool has been fixed and tested with AEM as a Cloud on Python 3.9. Other parts will be done later ;-)
